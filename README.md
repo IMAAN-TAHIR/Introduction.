@@ -1,4 +1,4 @@
 # Introduction
 This is my First Git repository.
 <br>
-Author - Iman Tahir
+Author - Iman (im_nt)
